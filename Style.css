@@ -1,0 +1,55 @@
+@charset "ISO-8859-1";
+body {
+	background-color : black
+}
+.name{
+	text-align: center;
+	display:block;
+	width : 100%;
+	font-size : 30px;
+	background-color : #8080c0;
+	 border: 1px solid #ccc;
+}
+
+.intro{
+	padding :15px;
+	 border: 1px solid #ccc;
+	width : 100%;
+	display:block;
+	background-color : #8080c0;
+	height:280px;
+
+}
+
+.work{
+	padding :1px;
+	 border: 1px solid #ccc;
+	display:block;
+	width : 100%;
+	background-color : #8080c0;
+}
+.education{
+	padding :1px;
+	 border: 1px solid #ccc;
+	display:block;
+	width : 100%;
+	background-color : #8080c0;
+	height:130px;
+}
+.awards{
+	padding :1px;
+	 border: 1px solid #ccc;
+	display:block;
+	width : 100%;
+	/* position : fixed; */
+	background-color : #8080c0;
+}
+
+img{
+	height:270px;
+	width:350px;
+	float: right; 
+}
+.email{
+	text-align: right;
+}
